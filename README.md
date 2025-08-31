@@ -1,2 +1,33 @@
-# medihbt-archived-collection
-Archived repos for various reasons
+# 删库跑路合集
+
+想法太多但不能一一实现的项目合集, 这里就当作我的项目坟场罢。
+
+## 项目合集
+
+### NEOS RandomSeat -- 公平正义抽号器
+
+一行代码都没写。话说回来, 这个项目英文名就该起 Fair & Justice.
+
+### u.togo -- 大一小组项目, 简单的 todo 软件
+
+挺好, 第一次组队开发项目. 就是重点偏了, 就该做得花里胡哨的而不是死磕 unilist 文件.
+
+### musys-hvm -- 假想语言 Musys 的虚拟机
+
+栈 + 寄存器混合式虚拟机，想着想着发现越来越复杂而且还有一大堆恶心的问题于是算了.
+
+### musys-lang -- 尝试给 Musys-IR 接上 Vala 前端
+
+Vala 的一部分语义太恶心了，接不了一点儿.
+
+### SREP -- 高中项目合集
+
+关注 [`ExFighter1607`](http://github.com/ExFighter1607) 喵，关注 `ExFighter1607` 谢谢喵.
+
+那是我的旧号，只不过不知道怎么登录了.
+
+### Unilife -- 大学生活指南应用
+
+质疑飞书, 理解飞书, 拥护飞书... 不说了, 上飞书写报告去了.
+
+话说回来, 飞书要是给本地存储功能就好了...
